@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # -Employee-Performance-Appraisal-System
 =======
-# **Employee Performance Appraisal System**
+
 
 ## **Overview**
 The **Employee Performance Appraisal System** is a **full-stack web application** that allows HR departments to efficiently track, evaluate, and manage employee performance. It features **a Spring Boot backend** and **a React-based frontend**, implementing a **bell curve appraisal system** to fairly distribute employee performance ratings.
@@ -197,5 +196,3 @@ EmployeePerformanceAppraisalApiApplicationTests.java in IntelliJ IDEA.
 ## **📜 License**
 This project is open-source and available for learning and development purposes.
 
----
->>>>>>> a533e5f (added  README.md files)
